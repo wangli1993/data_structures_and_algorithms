@@ -10,7 +10,6 @@ public class FileTest {
         t.start();
         System.out.println("222");
         System.out.println(initFlag);
-        System.out.println(11);
         try {
             t.join();
             System.out.println("333");
